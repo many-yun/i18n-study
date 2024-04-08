@@ -1,0 +1,14 @@
+{
+   "shared": {
+      "header": {
+         "text-tools": "Text Tools",
+         "text-compare": "Text compare",
+         "word-counter": "Word Counter"
+      },
+      "footer": {
+         "text-tools": "Footer Text Tools",
+         "text-compare": "Footer Text compare",
+         "word-counter": "Footer Word Counter"
+      }
+   }
+}
